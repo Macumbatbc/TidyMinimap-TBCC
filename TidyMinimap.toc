@@ -1,0 +1,8 @@
+## Interface: 11300
+## Title: TidyMinimap
+## Version: 0.8
+## Author: chrippa
+## Notes: Tidy up the buttons around the minimap!
+
+TidyMinimap.lua
+Settings.lua
